@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Asritha
+- 👋 Hi, I’m @Asritha Singareddy
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Nextjs,React 
 - 💞️ I’m looking to collaborate on MERN stack projects
